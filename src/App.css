@@ -43,3 +43,24 @@ position: absolute;
 top:0px;
 right: 0px;
 }
+.ilan {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px 0;
+}
+.ilan img {
+max-width: 100%;
+height: auto;
+}
+.ilan-baslik{
+  font-size: 1.5em;
+  margin-bottom:8px;
+}
+.ilan-aciklama {
+  margin-bottom: 8px;
+}
+.ilan-lokasyon,
+.ilan-kategori{
+  font-style: italic;
+  color:#555;
+}
